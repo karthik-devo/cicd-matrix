@@ -1,3 +1,6 @@
 #!/bin/sh
 
-echo "Deploy service1 deploy feature2 without rebase"
+
+
+echo "Deploy service1 change to service 1 only retry2"
+
